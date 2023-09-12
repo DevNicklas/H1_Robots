@@ -1,0 +1,23 @@
+(Rengøringsrobot) - Stor robot
+RX54667
+Fejer gulvet og pudser vinduer
+Default farven er hvid, men kan have andre farver
+Kan ikke have batteri
+Har hjul
+Har sæbebeholder
+
+
+(Mekanikerrobot) - Stor robot
+QT8339 
+Fejer gulvet og skifter dæk
+Default farven er hvid, men kan have andre farver
+Kan have batteri hvis farven er hvid
+Har hjul
+
+(Fejerobot) - Lille robot
+DEFAULT
+Fejer gulvet
+Default farven er hvid, men kan have andre farver
+Har Wifi
+Kan have batteri hvis farven er hvid
+Ingen hjul
