@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace H1_Robots.Model
 {
+    /// <summary>
+    /// Class <see cref="Microchip"/> represents a microchip
+    /// </summary>
     internal class Microchip
     {
         private string _name;
